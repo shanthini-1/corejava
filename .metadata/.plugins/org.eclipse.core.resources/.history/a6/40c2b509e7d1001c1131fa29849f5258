@@ -1,0 +1,10 @@
+package com.chainsys.basic;
+
+public class ForeachDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

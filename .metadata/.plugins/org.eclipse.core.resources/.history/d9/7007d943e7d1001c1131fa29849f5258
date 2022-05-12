@@ -1,0 +1,16 @@
+package com.chainsys.basic;
+
+import java.util.List;
+
+public class ForeachDemo {
+
+	public static void main(String[] args) {
+		
+			
+		int[] a = (1,2,3,4);
+    int result = 0;
+    for (int i : a)
+        result += i;
+	}
+
+}
