@@ -1,8 +1,0 @@
-1649323494254	Rename package 'HrAppEntrypoint'
-1649324188508	Encapsulate field 'Employee_id'
-1649324199699	Encapsulate field 'Employee_name'
-1649324206254	Encapsulate field 'Employee_salary'
-1649393910982	Move compilation unit
-1649393916702	Move compilation unit
-1649393925401	Delete element
-1649393993738	Rename package 'hrappentrypoint'

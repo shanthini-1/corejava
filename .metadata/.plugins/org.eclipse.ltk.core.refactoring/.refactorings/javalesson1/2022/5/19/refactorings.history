@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.chainsys.jdbcprogram.iuy&apos; to &apos;secondJdbc&apos;&#x0D;&#x0A;- Original project: &apos;javalesson1&apos;&#x0D;&#x0A;- Original element: &apos;com.chainsys.jdbcprogram.iuy&apos;&#x0D;&#x0A;- Renamed element: &apos;com.chainsys.jdbcprogram.secondJdbc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;iuy&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.chainsys.jdbcprogram{iuy.java[iuy" matchStrategy="1" name="secondJdbc" qualified="false" references="true" similarDeclarations="false" stamp="1651728210588" textual="false" version="1.0"/>
-</session>
